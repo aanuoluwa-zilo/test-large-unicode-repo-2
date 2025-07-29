@@ -1,0 +1,1 @@
+This is a file with special characters in the name: file@symbol.txt
